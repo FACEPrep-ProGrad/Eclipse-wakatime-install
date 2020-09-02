@@ -1,8 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 # Wakatime - Eclipse
-[![Build Status](https://travis-ci.com/wakatime/vscode-wakatime.png?branch=master)](https://travis-ci.com/wakatime/vscode-wakatime)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/WakaTime.vscode-wakatime.png?label=Visual%20Studio%20Marketplace)
-[![Coding time tracker](https://wakatime.com/badge/github/wakatime/vscode-wakatime.png?branch=master)](https://wakatime.com/badge/github/wakatime/vscode-wakatime)
+
 Metrics, insights, and time tracking automatically generated from your programming activity.
 
 
