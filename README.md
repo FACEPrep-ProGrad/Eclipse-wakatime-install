@@ -20,6 +20,7 @@ Metrics, insights, and time tracking automatically generated from your programmi
 ## Screen Shots
 
 ![Project Overview](https://wakatime.com/static/img/ScreenShots/Screen-Shot-2016-03-21.png)
+![type install](./images/type-wakatime.png)
 
 
 ## Installation for Old Versions of Eclipse
