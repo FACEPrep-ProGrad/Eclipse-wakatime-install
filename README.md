@@ -9,6 +9,7 @@ Metrics, insights, and time tracking automatically generated from your programmi
 1. Click `Help → Eclipse Marketplace…` then search for `WakaTime`.
 
 ![Eclipse marketplace menu](https://wakatime.com/static/img/plugins/installing/eclipse.png)
+
 ![type install](./images/type-wakatime.png)
 
 2. Click `Install`.
@@ -35,7 +36,3 @@ Metrics, insights, and time tracking automatically generated from your programmi
 3. Click `File → WakaTime → API Key`, enter your [api key](https://wakatime.com/settings#apikey), then click `OK`.
 
 4. Use Eclipse and your coding activity will be displayed on your [WakaTime dashboard](https://wakatime.com).
-
-Note: WakaTime on OS X depends on Xcode being installed to work correctly.
-
-
