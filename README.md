@@ -6,17 +6,19 @@ Metrics, insights, and time tracking automatically generated from your programmi
 
 ## Installation
 
-1. Click `Help → Eclipse Marketplace…` then search for `WakaTime`.
+1.Visit https://wakatime.com and create a account using GitHub account. Then [add username](https://wakatime.com/settings/profile) in profile tab.
+
+2. Click `Help → Eclipse Marketplace…` then search for `WakaTime`.
 
 ![Eclipse marketplace menu](https://wakatime.com/static/img/plugins/installing/eclipse.png)
 
 ![type install](./images/type-wakatime.png)
 
-2. Click `Install`.
+3. Click `Install`.
 
-3. Navigate to `File → WakaTime → API Key` and enter your [api key](https://wakatime.com/settings#apikey).
+4. Navigate to `File → WakaTime → API Key` and enter your [api key](https://wakatime.com/settings#apikey).
 
-4. Use Eclipse and your coding activity will be displayed on your [WakaTime dashboard](https://wakatime.com).
+5. Use Eclipse and your coding activity will be displayed on your [WakaTime dashboard](https://wakatime.com).
 
 
 ## Screen Shots
