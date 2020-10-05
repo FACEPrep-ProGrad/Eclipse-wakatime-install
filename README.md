@@ -6,7 +6,7 @@ Metrics, insights, and time tracking automatically generated from your programmi
 
 ## Installation
 
-1.Visit https://wakatime.com and create a account using GitHub account. Then [add username](https://wakatime.com/settings/profile) in profile tab.
+1.Visit https://wakatime.com and create a account using GitHub account. Then [add username](https://wakatime.com/settings/profile) in profile tab.(Kindly ignore if it is already done)
 
 2. Click `Help → Eclipse Marketplace…` then search for `WakaTime`.
 
